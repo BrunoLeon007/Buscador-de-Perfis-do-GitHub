@@ -85,7 +85,7 @@ Não há necessidade de instalação de dependências. Basta seguir os passos:
 
  
 
-Feito por **[Seu Nome Aqui]**.
+Feito por **Bruno Leonardo**.
 
  
 
